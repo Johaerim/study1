@@ -1,0 +1,15 @@
+/Users/johaerim/Desktop/c/obj/Debug/net7.0/c.csproj.AssemblyReference.cache
+/Users/johaerim/Desktop/c/obj/Debug/net7.0/c.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johaerim/Desktop/c/obj/Debug/net7.0/c.AssemblyInfoInputs.cache
+/Users/johaerim/Desktop/c/obj/Debug/net7.0/c.AssemblyInfo.cs
+/Users/johaerim/Desktop/c/obj/Debug/net7.0/c.csproj.CoreCompileInputs.cache
+/Users/johaerim/Desktop/c/bin/Debug/net7.0/c
+/Users/johaerim/Desktop/c/bin/Debug/net7.0/c.deps.json
+/Users/johaerim/Desktop/c/bin/Debug/net7.0/c.runtimeconfig.json
+/Users/johaerim/Desktop/c/bin/Debug/net7.0/c.dll
+/Users/johaerim/Desktop/c/bin/Debug/net7.0/c.pdb
+/Users/johaerim/Desktop/c/obj/Debug/net7.0/c.dll
+/Users/johaerim/Desktop/c/obj/Debug/net7.0/refint/c.dll
+/Users/johaerim/Desktop/c/obj/Debug/net7.0/c.pdb
+/Users/johaerim/Desktop/c/obj/Debug/net7.0/c.genruntimeconfig.cache
+/Users/johaerim/Desktop/c/obj/Debug/net7.0/ref/c.dll
